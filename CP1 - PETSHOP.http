@@ -1,0 +1,6 @@
+@CP1___PETSHOP_HostAddress = http://localhost:5027
+
+GET {{CP1___PETSHOP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
